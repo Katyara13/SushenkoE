@@ -1,0 +1,17 @@
+body{background: rgb(176, 224, 230)}
+.italic{
+    font-style:italic
+}
+.bold{
+    font-weight:bold;
+}
+
+.letterSpasing{
+    letter-spacing:.2rem;
+}
+.disc{
+    list-style-type:disc;
+}
+.square{
+    list-style-type:square;
+}
